@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ProjectCore.DAL.Models
+namespace ProjectCore.Models
 {
     public partial class Projects
     {

@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace ProjectCore.DAL.Models
+namespace ProjectCore.Models
 {
     public partial class ProjectCoreContext : DbContext
     {
